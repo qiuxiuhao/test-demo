@@ -8,10 +8,9 @@
 		}
 	    ,{
             "path" : "pages/index/login",
-            "style" :                                                                                    
+            "style" :
             {
-                "navigationBarTitleText": "",
-                "enablePullDownRefresh": false
+                "titleNView":false
             }
             
         }
